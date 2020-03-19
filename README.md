@@ -20,3 +20,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 1.Button、form size  or other size attribute can be set
 - use mini size
 
+gs-test
